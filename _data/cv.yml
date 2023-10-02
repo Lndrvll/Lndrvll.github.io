@@ -1,4 +1,4 @@
-- title: General Information
+- title: Curriculum Vitae
   type: map
   contents:
     - name: Full Name
@@ -8,25 +8,7 @@
     - name: Langues
       value: Français, English
 
-- title: Éducation
-  type: time_table
-  contents:
-    - title: Baccalauréat
-      institution: Université du Québec à Montréal
-      year: 2017
-      description:
-        - Arts Visuels et médiatiques.
-        - Profil Pratique
-        - title: Échange étudiant à SOGANG University, Séoul, Corée du Sud
-          contents:
-            - Media Arts
-    - title: Diplôme d'étude Collégiale
-      institution: Cegep Édouard Montpetit
-      year: 2014
-      description:
-        - Cinéma et Communication
-
-- title: Expérience
+- title: Expérience Professionnelle
   type: time_table
   contents:
     - title: Consultant en Gestion des identités et accès
@@ -66,53 +48,61 @@
         - Immersion culturelle dans une entreprise japonaise et apprentissage de la langue
 
     - title: Technicien Apple
-      institution: royal Photo
+      institution: Royal Photo
       year: 2016-2019
       description:
         - Réparation de produits Apple. Certifications ACIT et ACMT.
         - (Parcours d'apprentissage technique présenté et certifié par Apple)
         - Résolution en arbre décisionnel et isolation de problème
 
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+
+- title: Expérience Personnelle
+  type: time_table
+  contents:
+    - title: Certification
+      year: 2022
       description:
+        - Plateforme SailPoint IdentityIQ IAM - Niveau associé
+    - title: Certification
+      year: 2021
+      description:
+        - Fondamentales Google Cloud Plateforme Architecture
+    - title: Création d'une entreprise
+      year: 2020
+      description:
+        - Fondation d'un service de support informatique et audiovisuel pour les petites et moyennes entreprises
+    - title: Travail créatif en intégration vidéo, montage et formatage 
+      year: 2019
+    - title: Conception sonore et production de musique électronique
+      year: 2017 - aujourd'hui
+    - title: Modélisation 3D et travail créatif à temps partiel. Plus d'un an d'expérience cumulée avec Autodesk Maya.
+      year: 2016 - 2021
+    - title: Cours de japonais, temps partiel  
+      year: 2016 - 2018
+    
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
+- title: Éducation
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Baccalauréat
+      institution: Université du Québec à Montréal
+      year: 2017
+      description:
+        - Arts Visuels et médiatiques.
+        - Profil Pratique
+        - title: Échange étudiant à SOGANG University, Séoul, Corée du Sud
+          contents:
+            - Profil en Media Arts
+    - title: Diplôme d'étude Collégiale
+      institution: Cegep Édouard Montpetit
+      year: 2014
+      description:
+        - Cinéma et Communication
 
-- title: Honors and Awards
+- title: Forces et compétences
   type: time_table
   contents:
-    - year: 1921
-      items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - title: Vulgarisation technologique
+    - title: Bon travail d’équipe
+    - title: Bonne écoute
+    - title: Autonomie
