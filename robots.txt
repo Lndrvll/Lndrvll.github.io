@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://Lndrvll.github.io//sitemap.xml
+Sitemap: https://Lndrvll.github.io///sitemap.xml
