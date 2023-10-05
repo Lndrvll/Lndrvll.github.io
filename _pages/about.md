@@ -21,6 +21,10 @@ social: true  # includes social icons at the bottom of the page
 Bienvenue! Ici se trouve une synthèse de mon travail et expériences professionnelles, 
 portfolio, blog, CV, réseaux sociaux. Voici un portrait de mon travail 
 technique comme consultant en informatique et en outils numériques 
-entremêlé à pratique en arts.
+entremêlé à pratique en arts. 
+  
+---
+  
+Écoutez mes [productions musicales](https://soundcloud.com/00jrme) sur SoundCloud  
 
 ---
