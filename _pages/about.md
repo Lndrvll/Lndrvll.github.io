@@ -25,15 +25,10 @@ entremêlé à ma pratique en arts.
   
 ---
   
+[Curriculum Vitae](https://lndrvll.github.io/cv/) 
   
-  
-  
-  
-  
-  
-  
-  
+---
    
- [productions musicales](https://soundcloud.com/00jrme) sur SoundCloud  
+[productions musicales](https://soundcloud.com/00jrme) sur SoundCloud  
 
 ---
