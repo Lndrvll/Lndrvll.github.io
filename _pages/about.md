@@ -25,6 +25,15 @@ entremêlé à ma pratique en arts.
   
 ---
   
-Écoutez mes [productions musicales](https://soundcloud.com/00jrme) sur SoundCloud  
+  
+  
+  
+  
+  
+  
+  
+  
+   
+ [productions musicales](https://soundcloud.com/00jrme) sur SoundCloud  
 
 ---
