@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: À propos
 permalink: /
 nav_order: 1
 profile:
