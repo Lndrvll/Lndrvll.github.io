@@ -60,6 +60,10 @@
   type: time_table
   contents:
     - title: Certification
+      year: 2023
+      description:
+        - Dante Certification 2nd Edition - Niveau 1, 2, 3 
+    - title: Certification
       year: 2022
       description:
         - Plateforme SailPoint IdentityIQ IAM - Niveau associé
