@@ -10,7 +10,8 @@ profile:
   more_info: >
     <p>jeremie.landreville@protonmail.com</p>
     <p>+1 514-827-4633</p>
-    <p>Saint-Laurent-de-l'île-d'Orléan, Qc</p>
+    <p>+33 7 49 68 23 54</p>
+    <p>Arbois, France</p>
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
