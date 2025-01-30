@@ -10,7 +10,7 @@ profile:
   more_info: >
     <p>jeremie.landreville@protonmail.com</p>
     <p>+1 514-827-4633</p>
-    <p>+33 7 49 68 23 54</p>
+    <p>+33 7 49 68 23 64</p>
     <p>Arbois, France</p>
 
 news: false  # includes a list of news items
